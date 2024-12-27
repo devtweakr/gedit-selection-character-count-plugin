@@ -1,0 +1,9 @@
+[Plugin]
+Name=Selection Character Count
+Description=Displays character count of selected text in the status bar.
+Icon=text-x-script
+Author=DevTweakr
+Version=1.0
+Website=
+Loader=python3
+Module=charcount
